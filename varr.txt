@@ -1,0 +1,3 @@
+Variable scope refers to the accessibility of variables in javasript. The two types of scope are global, declared outside a block and local, declared inside a block.
+Var is function scoped , meaning they recognize functions as having a separate scope
+Let is block scoped ,meaning new local scope is created from any kind of block including function blocks.
